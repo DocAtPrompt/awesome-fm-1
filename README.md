@@ -71,6 +71,7 @@ All of these install over USB from Chrome or Edge in a couple of minutes, and M-
 - [Optimist](https://github.com/w0ts/optimist) - Modular firmware platform derived from SLOOP: a firmware builder lets you pick which engines, kits and effects fit in flash. Work in progress, tested on very little hardware. GPL-3.0.
 - [NoteSorcery](https://github.com/catacombius/NoteSorcery) - OP-1-style eight-track groovebox built on SLOOP, with Ableton export, an Android companion and live sampling over USB. In development, not yet tested on a device. GPL-3.0.
 - [FM1 Move](https://github.com/Nicodesy06/FM1-MOVE) - Eight-track groovebox firmware with a performance-focused interface, a [browser simulator](https://nicodesy06.github.io/FM1-MOVE/sim/) and a [manual](https://nicodesy06.github.io/FM1-MOVE/manual/). Early. GPL-3.0.
+- [Rocket OS](https://github.com/cmlarsen/fm1-rocket-os) - Clip-launching performance firmware by cmlarsen, forked from X0X. Work in progress, no build yet. GPL-3.0.
 
 ### Closed source
 
