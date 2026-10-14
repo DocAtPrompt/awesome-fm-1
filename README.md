@@ -83,6 +83,7 @@ All of these install over USB from Chrome or Edge in a couple of minutes, and M-
 ### Not a synth
 
 - [FM-1 Doom](https://github.com/zvenson/fm1doom) - Playable Doom by sloopDX's author: one FreeDM arena on the keys and knob, synthesised sound effects, [web installer](https://dx7.designburgapps.com/doom/). GPL-2.0.
+- [Doom (E1M1)](https://github.com/seanohollaren/fm1-doom) - Doom's first level as firmware by seanohollaren, on the rp2040-doom engine with Felucca's hardware layer and update loader, including title screen, sound and music. Installed and played on one FM-1. The [web installer](https://doom.deadlockinteractive.com/) fetches the shareware game data into the browser. Separate from FM-1 Doom. GPL-3.0.
 - [Mocky](https://github.com/charlesvestal/fm1-mocky) - Firmware and [web app](https://charlesvestal.github.io/fm1-mocky/) by Charles Vestal for sending pictures to the FM-1's screen from the browser. GPL-3.0.
 - [fm1-mdx](https://github.com/Keitark/fm1-mdx) - Experimental MDX/PDX karaoke player on a software YM2151 that lets you mute a part and play it on the keys. Tested on a computer only. GPL-3.0.
 - [fm1-nes](https://github.com/Keitark/fm1-nes) - NES emulator running on the FM-1, published as a worked example of custom firmware development with board-support code and USB serial diagnostics. Apache-2.0.
