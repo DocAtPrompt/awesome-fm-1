@@ -72,6 +72,7 @@ All of these install over USB from Chrome or Edge in a couple of minutes, and M-
 - [NoteSorcery](https://github.com/catacombius/NoteSorcery) - OP-1-style eight-track groovebox built on SLOOP, with Ableton export, an Android companion and live sampling over USB. In development, not yet tested on a device. GPL-3.0.
 - [FM1 Move](https://github.com/Nicodesy06/FM1-MOVE) - Eight-track groovebox firmware with a performance-focused interface, a [browser simulator](https://nicodesy06.github.io/FM1-MOVE/sim/) and a [manual](https://nicodesy06.github.io/FM1-MOVE/manual/). Early. GPL-3.0.
 - [Rocket OS](https://github.com/cmlarsen/fm1-rocket-os) - Clip-launching performance firmware by cmlarsen, forked from X0X. Work in progress, no build yet. GPL-3.0.
+- [AMBII](https://github.com/JalopyMusic/fm1-milkboyg-ambii) - Ambient firmware by MilkBoyG built on Melodee's synthesis and sequencing core, with new recording modes and a clearer performance interface. Browser prototype only, no FM-1 build yet. GPL-3.0.
 
 ### Closed source
 
